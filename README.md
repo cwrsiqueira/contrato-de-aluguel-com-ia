@@ -1,5 +1,7 @@
 # 🏠 Gerador de Contrato de Aluguel com PHP + OpenAI
 
+Projeto no Github: https://github.com/cwrsiqueira/contrato-de-aluguel-com-ia.git
+
 Este é um projeto simples de um **gerador de contratos de aluguel**, feito com **HTML**, **Bootstrap 5** no frontend e **PHP** no backend. Ele utiliza a **API da OpenAI (GPT-4)** para gerar um contrato personalizado de forma automática, com base nos dados fornecidos pelo usuário.
 
 ## ✅ Funcionalidades
